@@ -13,7 +13,6 @@ To get started with this tutorial, follow these steps:
 4. Watch the recorded lecture series with code provided in the `lectures` folder.
    
 ## Features
-## Features
 
 In this basic JavaScript tutorial, you will learn about the following features:
 
@@ -32,4 +31,8 @@ Start exploring the exciting world of JavaScript now!
 If you find any issues or have suggestions for improvement, feel free to contribute to this project. Simply fork the repository, make your changes, and submit a pull request.
 
 Happy coding! 
+
+## Contact
+
+For any further questions or inquiries, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/charlielindgren).
 
