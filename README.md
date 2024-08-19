@@ -13,16 +13,19 @@ To get started with this tutorial, follow these steps:
 4. Watch the recorded lecture series with code provided in the `lectures` folder.
    
 ## Features
+## Features
 
-Explore the amazing features of Bootstrap 5:
+In this basic JavaScript tutorial, you will learn about the following features:
 
-- Responsive design
-- CSS grid system
-- Typography
-- Forms and input fields
-- Navigation bars
-- Buttons and alerts
+- Variables and data types
+- Control flow and loops
+- Functions and scope
+- Arrays and objects
+- Basic DOM manipulation
+- Event handling
 - And much more!
+
+Start exploring the exciting world of JavaScript now!
 
 ## Contributing
 
