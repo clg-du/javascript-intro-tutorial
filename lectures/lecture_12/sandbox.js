@@ -8,7 +8,7 @@
 // In this example, we demonstrate the use of if statements to check if a number
 // is positive, negative, or zero.
 
-// Define a number
+// Define a number 
 let num = 5;
 
 // Check if the number is positive
