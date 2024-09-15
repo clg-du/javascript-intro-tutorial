@@ -21,8 +21,8 @@ let str = "5";
 console.log("num == str: ", num == str);
 
 // Strict equality (===)
-let num = 5;
-let str = "5";
+num = 5;
+str = "5";
 console.log("num === str: ", num === str);
 
 // In general, it is recommended to use the strict equality operator (===) to
