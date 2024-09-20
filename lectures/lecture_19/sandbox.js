@@ -40,24 +40,24 @@ console.log("sum: ", sum);
 // skip even numbers in a loop.
 
 // Define an array of numbers
-let numbers = [1, 2, 3, 4, 5];
+let numbersAgain = [1, 2, 3, 4, 5];
 
 // Initialize a variable to store the sum
-let sum = 0;
+let sumAgain = 0;
 
 // Use a for loop to iterate over the array of numbers
-for (let i = 0; i < numbers.length; i++) {
+for (let i = 0; i < numbersAgain.length; i++) {
   // Check if the current number is even
-  if (numbers[i] % 2 === 0) {
+  if (numbersAgain[i] % 2 === 0) {
     // Skip even numbers
     continue;
   }
   // Add the current number to the sum
-  sum += numbers[i];
+  sumAgain += numbersAgain[i];
 }
 
 // Log the sum to the console
-console.log("sum: ", sum);
+console.log("sum: ", sumAgain);
 
 // In this example, we define an array of numbers and use a for loop to iterate over the
 // array. We use the continue statement to skip even numbers and only add odd numbers to
